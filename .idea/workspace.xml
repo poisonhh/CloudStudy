@@ -345,12 +345,12 @@
       <updated>1588990847561</updated>
       <workItem from="1588990851853" duration="10593000" />
       <workItem from="1589010877334" duration="585000" />
-      <workItem from="1589011514285" duration="8889000" />
+      <workItem from="1589011514285" duration="9195000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20067000" />
+    <option name="totallyTimeSpent" value="20373000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -388,7 +388,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3314367" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.39528024" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.70058995" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="7" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21447721" />
       <window_info anchor="bottom" id="Problems" order="8" />
