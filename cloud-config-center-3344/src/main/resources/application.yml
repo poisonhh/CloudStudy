@@ -11,9 +11,21 @@ spring:
           search-paths:
             - springcloud-config
       label: master
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
 eureka:
   client:
 #    register-with-eureka: true
 #    fetch-registry: true
     service-url:
       defaultZone: http://localhost:7001/eureka
+management:
+  endpoints:
+    web:
+      exposure:
+        include: 'bus-refresh'
+#curl -X POST "http://localhost:3344/actuator/bus-refresh"
+#curl -X POST "http://localhost:3344/actuator/bus-refresh/config-client:3355"
