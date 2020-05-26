@@ -11,6 +11,7 @@ spring:
         server-addr: localhost:8848
         file-extension: yaml
         group: DEV_GROUP
+        namespace: 6c9c09fc-a6c8-4235-8abf-c134797eb989
 
 # ${spring.application.name}-${spring.profile.active}.${spring.cloud.nacos.config.file-extension}
 # nacos-config-client-dev.yaml
