@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d4ed68c-b7f2-4000-9ad6-29d2c5397780" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/sky/springcloud/alibaba/controller/FlowLimitController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/sky/springcloud/alibaba/controller/FlowLimitController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -135,8 +135,8 @@
       <file leaf-file-name="FlowLimitController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/sky/springcloud/alibaba/controller/FlowLimitController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="158">
+              <caret line="32" column="25" lean-forward="true" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#283#284#0" expanded="true" />
@@ -291,10 +291,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -576,12 +576,12 @@
       <workItem from="1589357031204" duration="1963000" />
       <workItem from="1589426444248" duration="24000" />
       <workItem from="1589790718680" duration="53454000" />
-      <workItem from="1590370528177" duration="21850000" />
+      <workItem from="1590370528177" duration="26025000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108801000" />
+    <option name="totallyTimeSpent" value="112976000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -593,7 +593,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50067025" side_tool="true" weight="0.32890856" />
@@ -619,9 +620,9 @@
       <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3314367" />
       <window_info anchor="bottom" id="Spring" order="15" weight="0.32890856" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="16" visible="true" weight="0.38478747" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="16" visible="true" weight="0.25368732" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="17" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1705757" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21447721" />
       <window_info anchor="bottom" id="Problems" order="19" weight="0.32890856" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
@@ -1084,8 +1085,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/sky/springcloud/alibaba/controller/FlowLimitController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="158">
+          <caret line="32" column="25" lean-forward="true" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#283#284#0" expanded="true" />
