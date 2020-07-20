@@ -25,12 +25,12 @@ public class MyLogGateWayFilter implements GlobalFilter, Ordered {
 
         log.info("********come in MyLogGateWayFilter: " + new Date());
 
-        String uname = exchange.getRequest().getQueryParams().getFirst("uname");
-        if (uname == null) {
-            log.info("********用户名为null, 非法用户, o(╥﹏╥)o");
-            exchange.getResponse().setStatusCode(HttpStatus.NOT_ACCEPTABLE);
-            return exchange.getResponse().setComplete();
-        }
+//        String uname = exchange.getRequest().getQueryParams().getFirst("uname");
+//        if (uname == null) {
+//            log.info("********用户名为null, 非法用户, o(╥﹏╥)o");
+//            exchange.getResponse().setStatusCode(HttpStatus.NOT_ACCEPTABLE);
+//            return exchange.getResponse().setComplete();
+//        }
         return chain.filter(exchange);
     }
 

@@ -9,15 +9,15 @@ import org.springframework.context.annotation.Configuration;
  * @author hhuang
  * @date 2020-05-21 14:17
  */
-@Configuration
+//@Configuration
 public class GateWayConfig {
 
-    @Bean
-    public RouteLocator customRouteLocator(RouteLocatorBuilder routeLocatorBuilder) {
-        RouteLocatorBuilder.Builder routes = routeLocatorBuilder.routes();
-        routes.route("path_route_sky",
-                r -> r.path("/*")
-                        .uri("http://news.baidu.com/*")).build();
-        return routes.build();
-    }
+//    @Bean
+//    public RouteLocator customRouteLocator(RouteLocatorBuilder routeLocatorBuilder) {
+//        RouteLocatorBuilder.Builder routes = routeLocatorBuilder.routes();
+//        routes.route("path_route_sky",
+//                r -> r.path("/*")
+//                        .uri("http://news.baidu.com/*")).build();
+//        return routes.build();
+//    }
 }
