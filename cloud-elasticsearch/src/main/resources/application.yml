@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: ESApplication
+server:
+  port: 9292
+
+es:
+  host: localhost
+  port: 9200
