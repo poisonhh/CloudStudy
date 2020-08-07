@@ -14,7 +14,7 @@ import org.springframework.context.annotation.Configuration;
  * @author hhuang
  * @date 2020-07-29 17:42
  */
-@Configuration
+//@Configuration
 public class ESConfig {
 
     @Value("${es.host}")
